@@ -1,0 +1,81 @@
+---
+de:
+  website:
+    footer_content:
+      <p>Wir sind stolz registrierte Mitglieder der National association of realtors zu sein.</p>
+      <p>Registrierungsnummer 12121212</p>
+  legal:
+    content_html:
+      main_content:
+        <b>Haftungsausschluss</b>  </br>
+        Das Internet-Team von Example RE ist bestrebt, Ihnen auf dieser Website nützliche, genaue und aktuelle Informationen zur Verfügung zu stellen. Dementsprechend hat Example RE versucht, korrekte Informationen und Materialien auf dieser Website auf dieser Website bereitzustellen, übernimmt jedoch keine Verantwortung für die Richtigkeit und Vollständigkeit dieser Informationen und Materialien auf dieser Website, übernimmt jedoch keine Verantwortung für die Richtigkeit und Vollständigkeit dieser Informationen oder Materialien. Example RE kann den Inhalt von Informationen oder Materialien, die auf dieser Website verfügbar sind, oder die darin beschriebenen Produkte jederzeit ohne vorherige Ankündigung ändern. Example RE ist jedoch nicht verpflichtet, die Informationen oder Materialien auf dieser Website zu aktualisieren, was dazu führen kann, dass sie veraltet sind. In Anzeigetafeln oder anderen Foren geäußerte Informationen und Meinungen entsprechen nicht unbedingt denen von Beispiel RE. Weder Example RE noch seine leitenden Angestellten, Direktoren, Mitarbeiter, Vertreter, Vertriebshändler oder verbundenen Unternehmen sind verantwortlich oder haftbar für Verluste (einschließlich, aber nicht beschränkt auf tatsächliche Schäden, Folgeschäden oder Bestrafungen), Haftung, Ansprüche oder sonstige Verletzungen oder Ursache im Zusammenhang mit oder aufgrund von Informationen, die auf der Website von Example RE veröffentlicht wurden. Example RE behält sich das Recht vor, diese Bedingungen und / oder rechtlichen Einschränkungen jederzeit zu ändern. Sie sind dafür verantwortlich, diese Seite von Zeit zu Zeit zu überprüfen, um sicherzustellen, dass die jeweils geltenden Bestimmungen und rechtlichen Beschränkungen eingehalten werden, da diese für Sie bindend sind. Bestimmte Bestimmungen dieser Bedingungen und rechtlichen Einschränkungen können durch ausdrücklich bezeichnete rechtliche Hinweise oder Bedingungen auf bestimmten Seiten dieser Website ersetzt werden.
+
+  privacy:
+    content_html:
+      main_content:
+        <P> <b> Datenschutz-Bestimmungen </b> </p> <p>
+        Wir verpflichten uns zur Sicherheit der Daten Ihrer Benutzer. In unseren Datenschutzbestimmungen sind daher die Bedingungen festgelegt, unter denen Example RE die von seinen Kunden bereitgestellten Informationen verwendet und schützt.
+        <b>
+        Verwenden Sie gesammelte Informationen </b> </p> <p>
+        Auf unserer Website werden möglicherweise persönliche Daten wie Ihre E-Mail-Adresse und demografische Daten erfasst. Bei Bedarf können auch spezifische Informationen erforderlich sein, um eine Bestellung zu bearbeiten oder eine Lieferung oder Abrechnung vorzunehmen.
+        Example RE wird keine persönlichen Informationen verkaufen, abtreten oder verbreiten, die ohne Ihre Zustimmung gesammelt wurden, es sei denn, dies wird von einem Gericht mit Gerichtsbeschluss verlangt.
+        </p>
+        <p><b>Links zu Dritten </b> </p> <p>
+        Diese Website enthält möglicherweise Links zu anderen Websites, die für Sie von Interesse sein können. Sobald Sie auf diese Links klicken und unsere Seite verlassen, haben wir keinen Einfluss mehr auf die Website, zu der Sie weitergeleitet werden, und sind daher nicht mehr für die Bedingungen oder den Datenschutz oder den Schutz Ihrer Daten auf diesen anderen Websites verantwortlich. Diese Websites unterliegen ihren eigenen Datenschutzrichtlinien. Es wird daher empfohlen, sie zu konsultieren, um zu bestätigen, dass Sie mit ihnen einverstanden sind.
+        </p>
+
+  sell:
+    content_html:
+      main_content:
+        <h2>Verkaufen Sie Ihre Immobilie mit uns</h2>
+        Unser Engagement für Sie ist es, den höchsten Standard an Professionalität aufrechtzuerhalten und Ihnen dabei zu helfen, die besten Immobilienentscheidungen zu treffen. Sie möchten Ihre Immobilie mit vollem Vertrauen verkaufen. Dabei verdienen Sie unser Bestes. Unser Ziel bei Example Real Estate ist es, Ihnen einen außergewöhnlichen Service zu bieten und dabei Ihre Bedürfnisse in jedem Schritt des Verkaufsprozesses zu erfüllen.
+        <h2>Regionale Expertise
+        </h2>
+        Unsere Kunden und Geschäftspartner werden Ihnen mitteilen, dass in unserer Marktregion Birmingham keine Listings mehr Käufer finden als die mit Beispielimmobilien aufgeführten. Dank unseres internetbasierten Marketings, unserer Printwerbung und unserer Marketingmaßnahmen für Sicherheiten sind unsere Angebote für Käufer, die nach Immobilien in Birmingham suchen, unerreicht zugänglich. Die Stärke unseres Online-Marketings, der Printwerbung und der direkten Maklerkontakte führen zu einem hohen Besucheraufkommen auf unserer Website, die detaillierte Informationen zu allen unseren Immobilienangeboten bietet.
+        <h2>Bereit, Ihnen zu helfen
+        </h2>
+        Unsere qualifizierten Maklerfachleute und Mitarbeiter bei Example Real Estate verfügen über die Erfahrung, das Wissen und die Diskretion, um Ihre Immobilie in ganz Birmingham zu vertreten. Unser Team von engagierten und professionellen Maklern und Mitarbeitern ist bestrebt, außergewöhnlichen Service zu bieten. Sie können sicher sein, dass Example RE die Tools bereitstellt und Ihren Makler bei der effizienten und kompetenten Vermarktung Ihrer Immobilie auf lokalen, regionalen und nationalen Märkten unterstützt. Es braucht mehr als ein Zeichen auf Ihrem Haus oder Eigentum, um Käufer anzuziehen. Wir erstellen einen vollständigen Marketingplan, der Ihren Anforderungen entspricht.
+
+  home:
+    landing_hero:
+      landing_title_a: >
+        Der Beste Makler in Hamburg
+      landing_content_a:
+        <ul class="list-carousel">
+          <li><i class="fa fa-check-square">
+            </i>
+          <li><i class="fa fa-check-square"></i>Wir finden für Sie die beste Immobilie auf dem Markt</li>
+        </ul>
+      landing_img:
+        db/example_images/carousel_villa_with_pool.jpg
+
+    content_html:
+      main_content: <p><b>Wichtiger Hinweis:</b>&nbsp; Wir bieten nur diesen Monat kostenlose Immobilienbewertungen an. Rufen Sie uns jetzt an, um von diesem Sonderangebot zu profitieren.
+
+    about_us_services:
+      title_a: Finde dein zuhause
+      content_a: <p>Erklären Sie uns genau, wonach Sie suchen, und wir werden unser Bestes tun, um die ideale Immobilie zu finden, die Ihren Anforderungen entspricht
+      title_b: Professionelle Immobilienmakler
+      content_b: <p>Wir sind professionelle Immobilienmakler. Wir helfen Ihnen bei allen Formalitäten und sparen Ihnen dabei Geld.
+      title_c: Ihre Immobiele verkaufen.
+      content_c: Wenn Sie Ihre Immobilie verkaufen möchten, setzen Sie sich mit uns in Verbindung. Mit unserer Erfahrung in der Branche und in der Region werden wir dies auf die schnellste und einfachste Weise erledigen.
+
+  about-us:
+    content_html:
+      main_content: <p><b> Wichtige Nachricht:</b>&nbsp; Wir bieten nur diesen Monat kostenlose Immobilienbewertungen an. Rufen Sie uns jetzt an, um von diesem Sonderangebot zu profitieren.</p>
+    our_agency:
+      title_a: Ueber uns
+      content_a:
+        <p>Wir sind ein professioneller Immobilienmakler mit langjähriger Erfahrung in der Erbringung eines großartigen Service
+         für unsere Kunden.</p>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+      our_agency_img:
+        db/example_images/carousel_grass.jpg
+
+
+
+
+
+
+
+
